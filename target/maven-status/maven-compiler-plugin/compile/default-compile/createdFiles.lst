@@ -1,0 +1,3 @@
+com\prowings\configuration\DispatcherServletConfig.class
+com\prowings\configuration\SpringWebMvcConfig.class
+com\prowings\controller\HelloController.class
